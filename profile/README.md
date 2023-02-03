@@ -31,10 +31,6 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a></p>
 
 
-<h3 align="center">Support</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/isasari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/isasari" /></a>
-
-
 <div align="center"><h3 align="center">Github Stats</h3>
     <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=cyberoslab&show_icons=true&theme=radical&count_private=true">
     <img alt="İsa Sarı GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberoslab&theme=algolia&hide_border=true">
