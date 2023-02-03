@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1 align="center"> Hi there 👋 I'ts W3Security</h1>
+<h2 align="center"> Front-End Developer</h2>
+<p align="center"> ⚡ I decided to pursue a career in programming while writing my master's thesis on artificial intelligence. While researching AI, I found myself in awe as I delved deeper into programming. So I enrolled in computer programming education and started doing individual studies. After deciding that frontend development is the field for me, I focused on this field and attended two bootcamps. I am proficient in HTML, CSS, JavaScript, Vue.js, and React.js. My motto is "Lead the world with code." I am an innovative person attaching importance to logical thinking. Eager to absorb as much knowledge and insight as possible in the pursuance of my goals. I love <strong>contribeauting</strong> to open source projects and <strong>creativing</strong> new things!</p>
